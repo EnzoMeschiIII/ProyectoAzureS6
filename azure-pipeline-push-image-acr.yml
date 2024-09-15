@@ -5,7 +5,7 @@ trigger:
 
 variables:
   # Variables de entorno
-  ACR_NAME: 'devopsapp' 
+  ACR_NAME: 'AppDevOpsS6' 
   IMAGE_NAME: 'appdevops-image-grupo2'
   SERVICE_CONNECTION_NAME: 'appdevops-grupo2'
 
